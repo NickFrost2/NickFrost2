@@ -82,38 +82,47 @@ const developer = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
-  </a>
+ <a href="https://github.com/NickFrost2/NACOS-website">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickFrost2&repo=NACOS-website&theme=radical" />
+ </a>
+ <a href="https://github.com/NickFrost2/Fouye_calc">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickFrost2&repo=Fouye_calc&theme=radical" />
+ </a>
 </div>
 
 ## 📫 Let's Connect!
 
 <div align="center">
+  <a href="mailto:bensonnicholas206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://codepen.io/nickfrost">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://dribbble.com/yourprofile">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  <a href="https://www.instagram.com/nickfrst/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/+2349067529053">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://behance.net/yourprofile">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
-  <a href="https://codepen.io/yourprofile">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  <a href="https://www.tiktok.com/@nick_frost">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="https://x.com/NBenson57814">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/NickFrost2.svg?style=for-the-badge&label=Profile%20view&extraCount=20&color=00d4ff&labelColor=001014&logo=github"/>
 </div>
 
 <div align="center">
