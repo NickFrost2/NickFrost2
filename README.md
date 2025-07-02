@@ -15,7 +15,7 @@ const developer = {
   devName: "Nick Frøst❄️",
   roles: ["Frontend Developer", "Graphic Designer", "Computer Scientist"],
   location: "📍 Location-Independent",
-  currentFocus: "Merging timeless design with modern frontend development to deliver polished, accessible products."
+  currentFocus: "Merging timeless design with modern frontend development to deliver polished, accessible products.",
   funFact: "My brain often tries to console.log() real-world observations, especially when I'm deep in research."
 };
 ```
@@ -77,32 +77,39 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickFrost2&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
- <a href="https://github.com/NickFrost2/NACOS-website">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickFrost2&repo=NACOS-website&theme=radical" />
- </a>
- <a href="https://github.com/NickFrost2/Fouye_calc">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NickFrost2&repo=Fouye_calc&theme=radical" />
- </a>
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="bensonnicholas206@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/message/VQDOCBOCB&MMK1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://codepen.io/Nick-Frost2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://facebook.com/profile.php?id=100076928378178" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href=" https://www.instagram.com/nickfrst/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/NBenson57814" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/nick_frost2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href=" www.linkedin.com/in/nickfrost2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/bensonnicholas" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
 </div>
+
+###
 
 ---
 
@@ -111,11 +118,8 @@ const developer = {
 </div>
 
 <div align="center">
-  <i>💜 "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs</i>
+  <i>"There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors."
+— Phil Karlton</i>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickFrost2/NickFrost2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickFrost2/NickFrost2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NickFrost2/NickFrost2/output/pacman-contribution-graph.svg">
-</picture>
+---
