@@ -23,6 +23,7 @@ const developer = {
 ## 🛠️ Tech Stack & Design Tools
 
 ### 💻 Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,6 +34,7 @@ const developer = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🎨 Design & Creative Tools
+
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A86B?style=for-the-badge&logo=coreldraw&logoColor=white)
@@ -41,6 +43,7 @@ const developer = {
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### ⚡ Tools & Workflow
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
@@ -50,33 +53,34 @@ const developer = {
 ## 🎯 What I Do
 
 **💻 Development**
+
 - Responsive web applications
 - Interactive user interfaces
 - Performance optimization
 - Accessibility implementation
 
 **🎨 Design**
+
 - Brand identity & visual systems
 - UI/UX design for web & mobile
 - Print design & marketing materials
 - Prototyping & wireframing
 
 **🚀 Specialties**
+
 - Design systems & component libraries
 - Animation & micro-interactions
 - Cross-browser compatibility
 - Modern CSS techniques
 
-
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-nick-frost.vercel.app/api?username=NickFrost2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-nick-frost.vercel.app/api/top-langs?username=NickFrost2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&count_private=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NickFrost2&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickFrost2&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats-xpmd.vercel.app/api?username=NickFrost2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-xpmd.vercel.app/api/top-langs?username=NickFrost2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2&count_private=true" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=NickFrost2&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickFrost2&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity%20Graph&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
-
 
 ## 📫 Let's Connect!
 
@@ -110,8 +114,6 @@ const developer = {
   </a>
 </div>
 
-###
-
 ---
 
 <div align="center">
@@ -122,3 +124,4 @@ const developer = {
   <i>"There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors."
 — Phil Karlton</i>
 </div>
+
